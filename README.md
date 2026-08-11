@@ -57,15 +57,15 @@ Before moving into technology, I graduated in **Algorithmic Music Composition**.
 
 ## Selected projects
 
-### [Service Operations Quality Pipeline](https://github.com/Mati279/service-ops-quality-pipeline) — In progress
+### [Soybean Multispectral Phenotyping](https://github.com/Mati279/soybean-multispectral-phenotyping)
 
-A data portfolio project based on more than **800,000 public service requests** from the City of Buenos Aires.
+An academic project for **soybean phenotyping from multispectral imagery**, developed in collaboration with researchers from UDELAR.
 
-The project is being designed as a reproducible workflow for data ingestion, validation, transformation, quality analysis, SQL-based exploration and operational reporting.
+The project includes processing and normalization of multispectral images, vegetation indices such as NDVI, NDRE, SAVI and GNDVI, image segmentation using methods such as Otsu, and exploratory analysis of agricultural data.
 
-The initial data inspection identified missing geographic information, incomplete coordinate fields and structural limitations that required adapting the analytical scope instead of calculating unsupported metrics.
+The public repository contains a curated version of the processing pipeline and selected notebooks documenting the development and analysis workflow.
 
-**Focus:** Python, Pandas, SQL, data quality, operational analytics and reporting.
+**Focus:** Python, multispectral image processing, data analysis, OpenCV, Rasterio and scientific workflows.
 
 ---
 
@@ -87,17 +87,17 @@ The project demonstrates my ability to transform specialized domain knowledge in
 
 **Focus:** algorithmic systems, rule-based generation, real-time processing and interdisciplinary problem solving.
 
-## Current academic work
+---
 
-I am developing an academic pipeline for **soybean phenotyping from multispectral imagery**, in collaboration with researchers from UDELAR.
+### [Service Operations Quality Pipeline](https://github.com/Mati279/service-ops-quality-pipeline) — In progress
 
-The project includes:
+A data portfolio project based on more than **800,000 public service requests** from the City of Buenos Aires.
 
-* processing and normalization of multispectral images;
-* vegetation indices such as NDVI, NDRE, SAVI and GNDVI;
-* image segmentation using methods such as Otsu;
-* analysis and visualization of agricultural data;
-* modular organization of scientific Python workflows.
+The project is being designed as a reproducible workflow for data ingestion, validation, transformation, quality analysis, SQL-based exploration and operational reporting.
+
+The initial data inspection identified missing geographic information, incomplete coordinate fields and structural limitations that required adapting the analytical scope instead of calculating unsupported metrics.
+
+**Focus:** Python, Pandas, SQL, data quality, operational analytics and reporting.
 
 ## Education
 
